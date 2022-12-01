@@ -18,7 +18,7 @@
 
 [Markdown guide](https://www.markdownguide.org/cheat-sheet/)
 
-![alt text](selfie.png)
+![alt text](selfie.jfif)
 
 ```c++
 int main{

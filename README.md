@@ -25,6 +25,7 @@ int main{
 for (index = 0; index <= 10; index++){
   cout << "Feliz navidad y asi :P\n";
 }
+return 0;
 }
 
 🤨

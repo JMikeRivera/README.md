@@ -1,8 +1,8 @@
-#README
+# README
 
-#José Miguel Rivera Garza
+# José Miguel Rivera Garza
 
-#ITC
+# ITC
 
 **Hola mundo**
 
